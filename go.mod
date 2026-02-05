@@ -1,4 +1,4 @@
-module github.com/jotaen/kong-completion
+module github.com/cdanis/kong-completion
 
 go 1.24
 
